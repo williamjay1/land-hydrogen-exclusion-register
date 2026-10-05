@@ -1,0 +1,56 @@
+[
+  {
+    "source": "smard",
+    "url": "https://www.smard.de/en/datennutzung",
+    "status_code": 200,
+    "snapshot_sha256": "cb50dcbfd643a731adfdf19587aba05c0de53c940af35c21b959a8930fc4849b",
+    "bytes": 22677,
+    "snapshot_utc": "2026-10-05T08:09:39.255453+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  },
+  {
+    "source": "pvgis",
+    "url": "https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis/general-information/usage-conditions-data-protection_en",
+    "status_code": 200,
+    "snapshot_sha256": "73cb09dcb4aaa6c1e957d06271bb4d12d6bdd47fe90e8f9d7cd922c1e8db9c71",
+    "bytes": 104059,
+    "snapshot_utc": "2026-10-05T08:09:40.954733+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  },
+  {
+    "source": "copernicus",
+    "url": "https://land.copernicus.eu/en/data-policy",
+    "status_code": 200,
+    "snapshot_sha256": "1791999798145bfc5618ff2ac465f3155088ff03ac0657dfeaff09dc42ac722c",
+    "bytes": 992554,
+    "snapshot_utc": "2026-10-05T08:09:43.675203+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  },
+  {
+    "source": "eea",
+    "url": "https://www.eea.europa.eu/en/legal-notice",
+    "status_code": 200,
+    "snapshot_sha256": "06a25c035fb5f78da99cf945faccdec26cc93027c4302073f4b5370d29b28fee",
+    "bytes": 846400,
+    "snapshot_utc": "2026-10-05T08:09:45.307555+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  },
+  {
+    "source": "gisco",
+    "url": "https://ec.europa.eu/eurostat/web/gisco/geodata/statistical-units",
+    "status_code": 200,
+    "snapshot_sha256": "76b4c5f035b7b71f51de3f3e6d1fce6499e85a192587044aa9d7447d6eacc71f",
+    "bytes": 188716,
+    "snapshot_utc": "2026-10-05T08:09:46.827797+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  },
+  {
+    "source": "zenodo",
+    "url": "https://help.zenodo.org/docs/github/archive-software/github-upload/",
+    "status_code": 200,
+    "snapshot_sha256": "171d6e6943d2928a1f8fb3f22f22dc3cdce6263b604b94866b1b5cb6a30d7a71",
+    "bytes": 16277,
+    "snapshot_utc": "2026-10-05T08:09:48.648764+00:00",
+    "access_note": "HTTP status is not itself licence validation; see DATA_LICENSE.md and cited policy."
+  }
+]

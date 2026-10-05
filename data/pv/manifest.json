@@ -1,0 +1,62 @@
+{
+  "2020": {
+    "path": "data/pv/pv_2020_128.npz",
+    "sha256": "e30a7b28aa81971202c4fedd24670f0a6b5b30b1c280e4a9e4daa61ad8971dcd",
+    "original_matrix_sha256": "1a80aaadc1030db297bcce7cd1ffe4930c916799900eb81fccf731887adbf8b3",
+    "original_manifest_sha256": "ed3a8d6799000837b3a0e04f0b0bbce8c824381bc6e4d38bdc25934387f6ffb3",
+    "source_sample": "data/pv/source_sample_2020.json",
+    "source_sample_sha256": "995b7a0c3180d7d6509731db327882b9f0ec7f9ceeaa7064fcd6cb49a9afc11c",
+    "source_sample_candidate_id": "AT111",
+    "hours": 8784,
+    "candidate_count": 128,
+    "source_candidate_count": 1165,
+    "source_database": "PVGIS-SARAH3",
+    "derivation": "Exact row subset of the frozen float32 cache; no resampling or rounding.",
+    "timestamp_rule": "Each UTC PVGIS timestamp is assigned to its enclosing UTC ENTSO-E hourly interval; raw timestamps and location-specific offsets are retained in the candidate audit."
+  },
+  "2021": {
+    "path": "data/pv/pv_2021_128.npz",
+    "sha256": "f4e1fb80fbd6dcdf80f7aa94fb8d0773fa26c47b293271a9f06274fac43930de",
+    "original_matrix_sha256": "675e76f72ecea9af3f25e41a30bf52179095b091ef73aa22a777eb776d6f2f68",
+    "original_manifest_sha256": "8eb486b309bbdc75963b6826d544228dd1019310f7d650422324701b09e82468",
+    "source_sample": "data/pv/source_sample_2021.json",
+    "source_sample_sha256": "f19750dfd14f7a3cd895c84a21d56ec8077fc51d7da218cbe29038fb19635cf0",
+    "source_sample_candidate_id": "AT111",
+    "hours": 8760,
+    "candidate_count": 128,
+    "source_candidate_count": 1165,
+    "source_database": "PVGIS-SARAH3",
+    "derivation": "Exact row subset of the frozen float32 cache; no resampling or rounding.",
+    "timestamp_rule": "Each UTC PVGIS timestamp is assigned to its enclosing UTC ENTSO-E hourly interval; raw timestamps and location-specific offsets are retained in the candidate audit."
+  },
+  "2022": {
+    "path": "data/pv/pv_2022_128.npz",
+    "sha256": "d1b1f26db565b69b76ac44abf8e99af4d228abf1a2de50a98ee0eb496899b172",
+    "original_matrix_sha256": "f0bb46baed1204b36756501a3b3c903b132a398e5900ec220c7bb530441bc203",
+    "original_manifest_sha256": "ca9ce5d169bde1dede1cddd6603100c8855298f0f413b5c895f0f8dfc800af8d",
+    "source_sample": "data/pv/source_sample_2022.json",
+    "source_sample_sha256": "2d10bbaaaf2da4af82fa2ebd7a636bae64846c37354911eb4bd5bbcd97b67f74",
+    "source_sample_candidate_id": "AT111",
+    "hours": 8760,
+    "candidate_count": 128,
+    "source_candidate_count": 1165,
+    "source_database": "PVGIS-SARAH3",
+    "derivation": "Exact row subset of the frozen float32 cache; no resampling or rounding.",
+    "timestamp_rule": "Each UTC PVGIS timestamp is assigned to its enclosing UTC ENTSO-E hourly interval; raw timestamps and location-specific offsets are retained in the candidate audit."
+  },
+  "2023": {
+    "path": "data/pv/pv_2023_128.npz",
+    "sha256": "eabea41a87078cf31e1425f7e92a8a91c8bb26b4b1899dec7e4a629e122dd523",
+    "original_matrix_sha256": "697b64f3dde18fab08fa9637871e918b0894686e9f05b3e112cfe9e2efbe423f",
+    "original_manifest_sha256": "7fc405dfd9c0d7e18645c761bc2001a55c0c414315c1b0cf36b878aa44c3adeb",
+    "source_sample": "data/pv/source_sample_2023.json",
+    "source_sample_sha256": "46cc8f448a4804b1b616a1dcab3a1d89cf9cb912096978d670c56b2d4f83f622",
+    "source_sample_candidate_id": "AT111",
+    "hours": 8760,
+    "candidate_count": 128,
+    "source_candidate_count": 1165,
+    "source_database": "PVGIS-SARAH3",
+    "derivation": "Exact row subset of the frozen float32 cache; no resampling or rounding.",
+    "timestamp_rule": "Each UTC PVGIS timestamp is assigned to its enclosing UTC ENTSO-E hourly interval; raw timestamps and location-specific offsets are retained in the candidate audit."
+  }
+}

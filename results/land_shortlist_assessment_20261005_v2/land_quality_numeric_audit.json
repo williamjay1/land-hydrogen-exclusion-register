@@ -1,0 +1,137 @@
+{
+  "status": "PASS_DETERMINISTIC_LAND_CHECKPOINT_AUDIT",
+  "audit_utc": "2026-10-05T08:23:36.766168+00:00",
+  "source_sha256": "abead6e56eed41d734220456ad419f3d369983f0f1cc42c360f91c66b1485710",
+  "script_sha256": "8af97c4addfff78c1214c68817be321633675adc606940e01880911f351a6d97",
+  "candidate_count": 127,
+  "comparison_rows": 1920,
+  "threshold_query_rows": 94176,
+  "witnesses_checked": 5631,
+  "daily_energy_audits": {
+    "u50_fourweek/2023": {
+      "rows": 46355,
+      "max_balance_error_mwh": 5.861977570020827e-14,
+      "max_daily_service_error_mwh": 5.684341886080802e-14,
+      "max_solver_mip_gap": 6.72096215751755e-14
+    },
+    "u50_fourweek/2024": {
+      "rows": 46482,
+      "max_balance_error_mwh": 2.4868995751603507e-14,
+      "max_daily_service_error_mwh": 1.0658141036401503e-14,
+      "max_solver_mip_gap": 7.687103424266564e-14
+    },
+    "u30_fourweek/2023": {
+      "rows": 46355,
+      "max_balance_error_mwh": 1.4061238395868259e-08,
+      "max_daily_service_error_mwh": 2.2020369527808725e-08,
+      "max_solver_mip_gap": 1.945365837944874e-09
+    },
+    "u30_fourweek/2024": {
+      "rows": 46482,
+      "max_balance_error_mwh": 1.7380073380479644e-08,
+      "max_daily_service_error_mwh": 1.7763568394002505e-14,
+      "max_solver_mip_gap": 5.676681221499417e-09
+    },
+    "u70_fourweek/2023": {
+      "rows": 46355,
+      "max_balance_error_mwh": 7.105427357601002e-15,
+      "max_daily_service_error_mwh": 4.973799150320701e-14,
+      "max_solver_mip_gap": 6.855917124220549e-15
+    },
+    "u70_fourweek/2024": {
+      "rows": 46482,
+      "max_balance_error_mwh": 7.105427357601002e-15,
+      "max_daily_service_error_mwh": 3.552713678800501e-15,
+      "max_solver_mip_gap": 5.6149255456886244e-14
+    },
+    "u50_lastweek/2023": {
+      "rows": 46355,
+      "max_balance_error_mwh": 8.08242361927114e-14,
+      "max_daily_service_error_mwh": 1.2434497875801753e-14,
+      "max_solver_mip_gap": 1.1458536844934231e-09
+    },
+    "u50_lastweek/2024": {
+      "rows": 46482,
+      "max_balance_error_mwh": 5.684341886080802e-14,
+      "max_daily_service_error_mwh": 8.881784197001252e-15,
+      "max_solver_mip_gap": 1.9634592607563805e-08
+    }
+  },
+  "synthetic_one_day_stress_checks": 30,
+  "references_cited": 35,
+  "figures": {
+    "figure1_land_workflow": {
+      "size": [
+        7795,
+        3118
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "0f30248f198fecaf046676ad6dbc2a6f4b2cb3a2c201387004394d0dccd529a2"
+    },
+    "figure2_land_context_maps": {
+      "size": [
+        7795,
+        4299
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "fcb13da42264d3230379ac43a9797c1e63d990c3eaf3c534299c0db91231b7e3"
+    },
+    "figure3_cost_protection_frontiers": {
+      "size": [
+        7795,
+        5433
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "2526568cdd9b8ab7590ec9e2b5ea8495db95666ec236a45a561df8588858bbfe"
+    },
+    "figure4_omission_retention_tradeoff": {
+      "size": [
+        7795,
+        4346
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "acc0bcf94b227673258c04315424bbcf80aad6526ee54b1cd71d8ad90b9c2949"
+    },
+    "figure5_scale_model_sensitivity": {
+      "size": [
+        7795,
+        4440
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "30a2f19286e8dd50b9a0e28f5644a0142871001e841aa8ec4d5e3b7ccab3129d"
+    },
+    "figure6_excluded_land_context_profiles": {
+      "size": [
+        7795,
+        5433
+      ],
+      "dpi": [
+        1199.9976,
+        1199.9976
+      ],
+      "sha256": "e0231c8ca3b48f5306f4e9e4ab60009aa681ba67b77548d7dd8a2a1d8c8bba32"
+    }
+  },
+  "planning_descriptive_audit": {
+    "zone_summaries": 4,
+    "systematic_cases": 8,
+    "spatial_support_records": 12,
+    "manifest_sha256": "5d90a54806add0ce0c77a2fc89bc5d4fec0ce1b7c5993786840215f44a46c877"
+  },
+  "interpretation": "Finite regional frame and deterministic consistency; not parcel feasibility or new temporal validation."
+}

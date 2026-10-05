@@ -1,0 +1,217 @@
+{
+  "analysis_utc": "2026-10-05T07:18:59.449257+00:00",
+  "status": "retrospective Land extension",
+  "script_sha256": "52ba8db49f8264a0e3c934e7daaee70c12e206e455dbc407b43b91bac4466c32",
+  "context_comparison": "exact componentwise <=; uncertain comparisons retained; no positive land tolerance",
+  "exclusion": "FRM02: Corsica not in mainland France procurement regime",
+  "epsilon_eur_per_kg": 0.05,
+  "energy_correction": {
+    "u50_fourweek": {
+      "candidate_count": 127,
+      "retained": 48,
+      "pruned_fraction": 0.6220472440944882,
+      "zones": [
+        {
+          "zone": "BE",
+          "n": 32,
+          "anchor": "BE334",
+          "incumbent_upper_eur_per_kg": 2.56108042468544,
+          "retained": 22,
+          "pruned_fraction": 0.3125,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "DE_LU",
+          "n": 32,
+          "anchor": "DE27E",
+          "incumbent_upper_eur_per_kg": 2.2810018171773665,
+          "retained": 5,
+          "pruned_fraction": 0.84375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "FR",
+          "n": 31,
+          "anchor": "FRL05",
+          "incumbent_upper_eur_per_kg": 1.8277944091174767,
+          "retained": 2,
+          "pruned_fraction": 0.935483870967742,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "NL",
+          "n": 32,
+          "anchor": "NL342",
+          "incumbent_upper_eur_per_kg": 2.534890610758259,
+          "retained": 19,
+          "pruned_fraction": 0.40625,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        }
+      ]
+    },
+    "u30_fourweek": {
+      "candidate_count": 127,
+      "retained": 58,
+      "pruned_fraction": 0.5433070866141732,
+      "zones": [
+        {
+          "zone": "BE",
+          "n": 32,
+          "anchor": "BE334",
+          "incumbent_upper_eur_per_kg": 1.840170668813959,
+          "retained": 25,
+          "pruned_fraction": 0.21875,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "DE_LU",
+          "n": 32,
+          "anchor": "DE27E",
+          "incumbent_upper_eur_per_kg": 1.5619546644801892,
+          "retained": 5,
+          "pruned_fraction": 0.84375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "FR",
+          "n": 31,
+          "anchor": "FRL05",
+          "incumbent_upper_eur_per_kg": 1.3609014692936732,
+          "retained": 2,
+          "pruned_fraction": 0.935483870967742,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "NL",
+          "n": 32,
+          "anchor": "NL422",
+          "incumbent_upper_eur_per_kg": 1.821009468247976,
+          "retained": 26,
+          "pruned_fraction": 0.1875,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        }
+      ]
+    },
+    "u70_fourweek": {
+      "candidate_count": 127,
+      "retained": 42,
+      "pruned_fraction": 0.6692913385826771,
+      "zones": [
+        {
+          "zone": "BE",
+          "n": 32,
+          "anchor": "BE253",
+          "incumbent_upper_eur_per_kg": 3.4797156181859425,
+          "retained": 20,
+          "pruned_fraction": 0.375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "DE_LU",
+          "n": 32,
+          "anchor": "DE27E",
+          "incumbent_upper_eur_per_kg": 3.261544241918575,
+          "retained": 5,
+          "pruned_fraction": 0.84375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "FR",
+          "n": 31,
+          "anchor": "FRL05",
+          "incumbent_upper_eur_per_kg": 2.8897332063266856,
+          "retained": 2,
+          "pruned_fraction": 0.935483870967742,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "NL",
+          "n": 32,
+          "anchor": "NL342",
+          "incumbent_upper_eur_per_kg": 3.4581540142480813,
+          "retained": 15,
+          "pruned_fraction": 0.53125,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        }
+      ]
+    },
+    "u50_lastweek": {
+      "candidate_count": 127,
+      "retained": 49,
+      "pruned_fraction": 0.6141732283464567,
+      "zones": [
+        {
+          "zone": "BE",
+          "n": 32,
+          "anchor": "BE334",
+          "incumbent_upper_eur_per_kg": 2.2737295970979896,
+          "retained": 22,
+          "pruned_fraction": 0.3125,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "DE_LU",
+          "n": 32,
+          "anchor": "DE27E",
+          "incumbent_upper_eur_per_kg": 2.045620389487121,
+          "retained": 5,
+          "pruned_fraction": 0.84375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "FR",
+          "n": 31,
+          "anchor": "FRL05",
+          "incumbent_upper_eur_per_kg": 1.6479134718454267,
+          "retained": 2,
+          "pruned_fraction": 0.935483870967742,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        },
+        {
+          "zone": "NL",
+          "n": 32,
+          "anchor": "NL342",
+          "incumbent_upper_eur_per_kg": 2.21680626087549,
+          "retained": 20,
+          "pruned_fraction": 0.375,
+          "regret_2023": 0.0,
+          "regret_2024_settlement": 0.0
+        }
+      ]
+    }
+  },
+  "inputs": {
+    "u50_fourweek": {
+      "path": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261002T063739Z_u50_fourweek\\annual_candidate_costs_and_bounds.csv",
+      "sha256": "51ef13fd88b7bb8904db1ed386e004279f2033d177fc07410ad919e59a037775"
+    },
+    "u30_fourweek": {
+      "path": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261002T072226Z_u30_fourweek\\annual_candidate_costs_and_bounds.csv",
+      "sha256": "cf003410d60d525517bf1a71ecd4cf4f40e4731f761b9a73c87048c28af14d60"
+    },
+    "u70_fourweek": {
+      "path": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261002T080302Z_u70_fourweek\\annual_candidate_costs_and_bounds.csv",
+      "sha256": "3b2e54770a7531e75d409a5d04665a673b33d0c4c2122b94ebb1d9c6f5e77c07"
+    },
+    "u50_lastweek": {
+      "path": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261004T173404Z_u50_lastweek\\annual_candidate_costs_and_bounds.csv",
+      "sha256": "af4030253b535e173a65c9b5801472ac07d517a0d2a03368322ff22a010a3561"
+    }
+  },
+  "timing_scope": "charged checkpoint replay, not a rerun benchmark"
+}

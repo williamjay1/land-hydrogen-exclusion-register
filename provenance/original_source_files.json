@@ -1,0 +1,218 @@
+{
+  "scripts/project03_analyse_land_shortlists.py": {
+    "sha256": "52ba8db49f8264a0e3c934e7daaee70c12e206e455dbc407b43b91bac4466c32",
+    "bytes": 20836
+  },
+  "scripts/project03_build_exclusion_register.py": {
+    "sha256": "4827f86733a17aae18b9a2013421153f7b15dc0fa0a8a5d8c813283af0a86bc2",
+    "bytes": 69254
+  },
+  "scripts/project03_run_regret_certificate_pilot.py": {
+    "sha256": "3e86abf3d5b7d02da9c2ab5741d78f56f7480859bbcac1849a9458bc84bed3d7",
+    "bytes": 78717
+  },
+  "scripts/project03_build_land_context.py": {
+    "sha256": "cd4d512034401263e4420c1bde7e582117babfc783d1c7e9cfac18742bfa64a5",
+    "bytes": 18805
+  },
+  "scripts/project03_plot_land_nature.py": {
+    "sha256": "84483bf7080493a5f87f4ad2d15adc9e868c33159c2f29427d9858df2027a029",
+    "bytes": 28388
+  },
+  "scripts/project03_land_planning_profiles.py": {
+    "sha256": "a94766b955ac84fa551624de8326e08a9441eec4f19d4353cbb869a249205ed7",
+    "bytes": 8027
+  },
+  "scripts/project03_build_pvgis_hourly_cache.py": {
+    "sha256": "e245ce1f68c060b99b173d787bf6ff15bd2ee5a071c62a3a731db0087046e20c",
+    "bytes": 7086
+  },
+  "scripts/project03_acquire_regret_pilot_data.py": {
+    "sha256": "391c294e845ab5fb5c986962156c570d6fdd26d6653fac56a536b5121423aaf8",
+    "bytes": 25235
+  },
+  "results/land_shortlist_assessment_20261005_v2/analysis_manifest.json": {
+    "sha256": "972fa87b9988d128bc62e8dd0b79261aa30aeb27947cf472b41b364f721e8ba6",
+    "bytes": 7396
+  },
+  "results/land_shortlist_assessment_20261005_v2/corrected_energy_summary.json": {
+    "sha256": "dd7c75b1945432c2747b22a31150a3acd0fd6a074ad07d5cadc4df928a7b9b54",
+    "bytes": 6904
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_dominance_witnesses.json": {
+    "sha256": "0f0ee5160ea33e0d50dff5d39885f37d1e9498f7f57b957d6668507af2e064db",
+    "bytes": 2669777
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_primary_sites_127.csv": {
+    "sha256": "e8d048813ee4601db1da43b33edf09825e1bce22a8af750c57ca276f235d75b9",
+    "bytes": 219845
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_quality_numeric_audit.json": {
+    "sha256": "ec85b1e1dc255a39e077d53a514d7d8ff53cfc5a858894b1b8c3ab753d11cef2",
+    "bytes": 4217
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_shortlist_comparison.csv": {
+    "sha256": "646136dd55f2013189a2766f77711715f23eba29009251560036e7571c6857d8",
+    "bytes": 282064
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_shortlist_membership.csv": {
+    "sha256": "25d7fcc1286d9fb5a3f990b481b86dccf832d710badad54efe459c54c9fa7622",
+    "bytes": 5877407
+  },
+  "results/land_shortlist_assessment_20261005_v2/land_threshold_queries.csv": {
+    "sha256": "e93f0b397c8127e19839229d06e10f719abf5f38ab18b21db732828f15a39621",
+    "bytes": 13797315
+  },
+  "results/land_shortlist_assessment_20261005_v1/analysis_manifest.json": {
+    "sha256": "a6b2ec29f7e6a43d92b8ebee6b62e38b82fc8dbd09bbf8f1c0b1c2fb66c34ae4",
+    "bytes": 7286
+  },
+  "results/land_shortlist_assessment_20261005_v1/land_dominance_witnesses.json": {
+    "sha256": "bc1890a78675ce4d69af5cc497614768721b2ee1bf26ba84f8b959f56d0b6b3f",
+    "bytes": 2672226
+  },
+  "datasets/intermediate/land_context_clc2018_natura2024_20261005_v1/land_context_metrics.csv": {
+    "sha256": "1a58caed480776403d0dc8c0192b77b1f4c21a6f569f3d2a92610f01677e1bfc",
+    "bytes": 151184
+  },
+  "datasets/intermediate/land_context_clc2018_natura2024_20261005_v1/run_manifest.json": {
+    "sha256": "befcad9cfcf66a4798a5b66ab6dca47d40c9d2ca4deb49d5f0806eab60cf8db4",
+    "bytes": 1818
+  },
+  "datasets/intermediate/regret_certificate_pilot_20261002_v1/validation_sites_128_excluding_development_v1.csv": {
+    "sha256": "8950bca3c3d6b1a5521bf509a6b4cbcad87a992946978a7cd1c5485b935c0661",
+    "bytes": 211043
+  },
+  "datasets/intermediate/regret_certificate_pilot_20261002_v1/smard_utc_calendar_2024_four_zone_hourly_eur2023_v1.csv": {
+    "sha256": "c4c695dcfc7e3c584ac0690b4172003cf700dbd5d6bc64d4d6a359cc9e6d07f6",
+    "bytes": 3164958
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/annual_candidate_costs_and_bounds.csv": {
+    "sha256": "51ef13fd88b7bb8904db1ed386e004279f2033d177fc07410ad919e59a037775",
+    "bytes": 142705
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/daily_dispatch_2023.csv": {
+    "sha256": "e8e67d7686e5907fa2e1e8ae5cb46a8cd2ad0102e90bb94e9c75447d56020b60",
+    "bytes": 7060214
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/daily_dispatch_2024.csv": {
+    "sha256": "00620f573b3d3ce61244c1fa492df06211854961b0bf0798d56f199f364cf74b",
+    "bytes": 7083225
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/run_manifest.json": {
+    "sha256": "030eaf23b3e6ed7f899138498b5a163220c41e2dc2d299e2757c865139c4dcd3",
+    "bytes": 2424
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/run_summary.json": {
+    "sha256": "3732b51e72ddcf1b8307bb8675a478e1270d5a6e0a4f8642c13421da5c89cda8",
+    "bytes": 25068
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T063739Z_u50_fourweek/run_completed.json": {
+    "sha256": "6d8ebc9972a657572d19a29d13eb7db3d09c4b0d8c966c7117edf2e9bfd129bf",
+    "bytes": 110
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/annual_candidate_costs_and_bounds.csv": {
+    "sha256": "cf003410d60d525517bf1a71ecd4cf4f40e4731f761b9a73c87048c28af14d60",
+    "bytes": 142834
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/daily_dispatch_2023.csv": {
+    "sha256": "7b6484a585dfa07af51d84aabf1b177ab33bbe3348ef39e2a5e7cc7f364b2d61",
+    "bytes": 8047933
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/daily_dispatch_2024.csv": {
+    "sha256": "d49e29967e83f881e005c6cef3044fa63ff2a2ee6f6604d1e2ebc294b0ce3595",
+    "bytes": 8018195
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/run_manifest.json": {
+    "sha256": "748aaf6c44797756989141f747063bf485385c986320903208e549e791ae7e43",
+    "bytes": 2424
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/run_summary.json": {
+    "sha256": "4eef607d018558077739840654768883073c4da8e90f8c8d4b0396474eaee845",
+    "bytes": 25303
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T072226Z_u30_fourweek/run_completed.json": {
+    "sha256": "2b3275ae340934d9a4d2f5c3fbcbee86ac05e353cd01cca04aebdefe2e37ccd2",
+    "bytes": 110
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/annual_candidate_costs_and_bounds.csv": {
+    "sha256": "3b2e54770a7531e75d409a5d04665a673b33d0c4c2122b94ebb1d9c6f5e77c07",
+    "bytes": 142637
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/daily_dispatch_2023.csv": {
+    "sha256": "d992aca9a75e741c4080246154ca8eee6a6e3109d82281e5577ad98d994f8339",
+    "bytes": 8142990
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/daily_dispatch_2024.csv": {
+    "sha256": "e3e46f5a931f75d981d3eceed07f5757e586d1f3ea63cd13e535c7adb5b78928",
+    "bytes": 8174875
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/run_manifest.json": {
+    "sha256": "0b9ea2474e780403d58345ce4caf1ebd9202537840cb1473a4d6e34f62a8a34c",
+    "bytes": 2424
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/run_summary.json": {
+    "sha256": "8c87da203299e10358e016e2c09999296df155a5d4df252775bbe82b1945f8af",
+    "bytes": 24881
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261002T080302Z_u70_fourweek/run_completed.json": {
+    "sha256": "c1b22df9e3c707ad86ab54921de4612e3b8c1003efa4dc30ae2189917398033b",
+    "bytes": 110
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/annual_candidate_costs_and_bounds.csv": {
+    "sha256": "af4030253b535e173a65c9b5801472ac07d517a0d2a03368322ff22a010a3561",
+    "bytes": 142877
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/daily_dispatch_2023.csv": {
+    "sha256": "54162aec16c8423cd0a5e08929c5c15f6998ce798e85a75ed2ca02006bbcd8a7",
+    "bytes": 7022656
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/daily_dispatch_2024.csv": {
+    "sha256": "0d60f50436f287badc245a4b30a4645342433cfdb0f77382e9acd6038998161a",
+    "bytes": 7052727
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/run_manifest.json": {
+    "sha256": "360d182f3cb0392441d6959a95b5c924a5eeca46359137fbd93cd8cdeca91ee1",
+    "bytes": 2585
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/run_summary.json": {
+    "sha256": "a1b9745178c1d4cc0685f545f4f78cc79c48bf47fd9cd54d57be334f4c2fd2a7",
+    "bytes": 24908
+  },
+  "results/regret_certificate_pilot_20261002_v1/run_20261004T173404Z_u50_lastweek/run_completed.json": {
+    "sha256": "822aee0eb010d8abf7fd13f5e87356b8058ef86bd2fd6a09b4fac46617a0e326",
+    "bytes": 110
+  },
+  "datasets/intermediate/public_data_redesign/smard_fixed_nonpolish_cohort_2016_2023_v3/smard_ccby_hourly_2022_v2.csv": {
+    "sha256": "063b4cb3b0c0807ec0d044ac4ce2c836996738f45c4054797ab2d4206517c69c",
+    "bytes": 12414498
+  },
+  "datasets/intermediate/public_data_redesign/smard_fixed_nonpolish_cohort_2016_2023_v3/smard_ccby_hourly_2023_v2.csv": {
+    "sha256": "c9daafb5fa9ea7b9cffb3d455072ab6cd44a286a3f9a22d59ccf115acbd9514f",
+    "bytes": 12337401
+  },
+  "results/land_planning_revision_20261005_v1/deterministic_context_extrema_cases.csv": {
+    "sha256": "7dc57e729305253e9ef074a1990bdee28f3a60b71d13e72bb2bce119f2a3ca43",
+    "bytes": 1771
+  },
+  "results/land_planning_revision_20261005_v1/planning_profiles_manifest.json": {
+    "sha256": "5d90a54806add0ce0c77a2fc89bc5d4fec0ce1b7c5993786840215f44a46c877",
+    "bytes": 1960
+  },
+  "results/land_planning_revision_20261005_v1/planning_source_manifest.json": {
+    "sha256": "d59f8adfa2fa22c1d0e9c6e0939bbce5e8c8f963f925cdfc495fc32f161f1817",
+    "bytes": 8423
+  },
+  "results/land_planning_revision_20261005_v1/spatial_support_diagnostics.csv": {
+    "sha256": "e39e21527220299c93c55c69b133dabc7b2d359380f2d458769cbac87d5c2dd0",
+    "bytes": 2001
+  },
+  "results/land_planning_revision_20261005_v1/zone_land_context_distributions.csv": {
+    "sha256": "70ddfc2fc49d3df6246278dd64a011657e554359f5d75af32b093550da913383",
+    "bytes": 1426
+  },
+  "docs/LAND_REAL_PLANNING_CASES_20261005.md": {
+    "sha256": "860491104c0cc5e3e202e098891b2091137e13ef41c4a9487dc7c1137e51b173",
+    "bytes": 21948
+  }
+}

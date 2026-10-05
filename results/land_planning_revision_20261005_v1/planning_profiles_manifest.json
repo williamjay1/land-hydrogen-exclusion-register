@@ -1,0 +1,18 @@
+{
+  "scope": "Retrospective finite-cohort descriptive diagnostics; no institutional or causal inference.",
+  "inputs": {
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\datasets\\intermediate\\land_context_clc2018_natura2024_20261005_v1\\land_context_metrics.csv": "1a58caed480776403d0dc8c0192b77b1f4c21a6f569f3d2a92610f01677e1bfc",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\land_shortlist_assessment_20261005_v1\\land_shortlist_membership.csv": "a8aa037b82f1a9cfaf9b0582e32906b15d23368547cf7c0513130390b1a79aea",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261002T063739Z_u50_fourweek\\annual_candidate_costs_and_bounds.csv": "51ef13fd88b7bb8904db1ed386e004279f2033d177fc07410ad919e59a037775"
+  },
+  "script_sha256": "a94766b955ac84fa551624de8326e08a9441eec4f19d4353cbb869a249205ed7",
+  "regions": 127,
+  "profiles": 8,
+  "outputs": {
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\land_planning_revision_20261005_v1\\zone_land_context_distributions.csv": "70ddfc2fc49d3df6246278dd64a011657e554359f5d75af32b093550da913383",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\land_planning_revision_20261005_v1\\deterministic_context_extrema_cases.csv": "7dc57e729305253e9ef074a1990bdee28f3a60b71d13e72bb2bce119f2a3ca43",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\land_planning_revision_20261005_v1\\spatial_support_diagnostics.csv": "e39e21527220299c93c55c69b133dabc7b2d359380f2d458769cbac87d5c2dd0",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\final_submission_seta\\figures_land_shortlist_20261005_v1\\figure6_excluded_land_context_profiles.pdf": "bef3361d8d41df5509c0a023f253c66298a2b9ac8e60862083cd5ff36d3f75ca",
+    "D:\\MLWork\\Europe_green_hydrogen_siting\\final_submission_seta\\figures_land_shortlist_20261005_v1\\figure6_excluded_land_context_profiles.png": "3c66e27b8d4b5479d2399c0ee2635c7d1ed72ada1b7f8da5fdb7020724daf1ff"
+  }
+}

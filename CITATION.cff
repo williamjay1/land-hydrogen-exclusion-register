@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Cite this versioned research software; add the real Zenodo DOI only after deposition."
+type: software
+title: "Land alternatives: reproducible exclusion register for regional hydrogen planning"
+version: 1.0.0
+date-released: "2026-10-05"
+repository-code: "https://github.com/williamjay1/land-hydrogen-exclusion-register"
+url: "https://github.com/williamjay1/land-hydrogen-exclusion-register"
+license: MIT
+authors:
+  - family-names: Zhang
+    given-names: Junjie
+    orcid: "https://orcid.org/0009-0004-8821-4018"
+    affiliation: "Shanghai International Studies University"
+abstract: "Research software and supporting numerical data for auditing conditional regional exclusions, preserving stated land-context alternatives and reopening exclusions when retained witnesses change. Finite-model evidence, not parcel suitability or permitting. Data licensing is separate from the software MIT licence."
+keywords:
+  - land planning
+  - hydrogen
+  - exclusion register
+  - reproducibility
+  - land alternatives

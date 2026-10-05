@@ -1,0 +1,31 @@
+{
+  "completed_utc": "2026-10-04T19:25:39.559377+00:00",
+  "data_vintage": {
+    "clc": 2018,
+    "natura": "service description 2024, snapshot retrieved 2026",
+    "nuts": 2024
+  },
+  "derived_root": "D:\\MLWork\\Europe_green_hydrogen_siting\\datasets\\intermediate\\land_context_clc2018_natura2024_20261005_v1",
+  "excluded_corsica": true,
+  "metadata_keys": {
+    "clc_layer": "e9d3b83bfd98ae33e9e1f14fc139ac85e8bfb80688867644fa2a9111129ae4f2",
+    "clc_product": "49b818a9775cb6facff78c25462cb0fb739aed474370786152610e9dc82e773a",
+    "copernicus_data_policy": "7e833a0c3059f6df8e39c0e29b1c4db5bfbb293630a507cd7e83312d76a23dbf",
+    "eea_legal_notice": "59c3e21fd0181d0d2c0ada7aeaf6590aeef3afb1ca93e2118e3d40f85d74a528",
+    "natura_layer_0": "a949f3d92b32fde5130dc720c3033762d5a228c31325b0b9eb3636928e77749f",
+    "natura_layer_1": "bdaca4e3c4391ba8326b7f597c506255fe321867d2dc90a4c24a22519b264efa",
+    "natura_layer_2": "2791499123673dfa0662b0b8906a249ac57d32f4c3105172d1ab49a623c27509",
+    "natura_service": "099c5bb438bb0f2ac660616501d8405b48220c74dd38688b415ce92d1dc8fed5",
+    "natura_site_type_counts": "5169cb5a50c7fffae9945a2ca86e7305283a974eff11946c7623c2eafdae2823"
+  },
+  "no_historical_information_set_claim": true,
+  "offline_recomputation_requested": true,
+  "raw_root": "F:\\AcademicData\\Project03\\raw\\land_context_clc2018_natura2024_20261005_v1",
+  "requested_candidates": 127,
+  "response_bytes_total": 2817342567,
+  "roster": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\land_shortlist_assessment_20261005_v1\\land_primary_sites_127.csv",
+  "roster_sha256": "e8d048813ee4601db1da43b33edf09825e1bce22a8af750c57ca276f235d75b9",
+  "script_sha256": "cd4d512034401263e4420c1bde7e582117babfc783d1c7e9cfac18742bfa64a5",
+  "started_utc": "2026-10-04T19:13:58.268599+00:00",
+  "workers": 4
+}

@@ -1,0 +1,19 @@
+name: Reproduce numerical screening
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -B scripts/reproduce.py register build
+      - run: python -B scripts/reproduce.py register validate
+      - run: python -B -m unittest discover -s tests -v
+      - run: python -m pip install -r requirements-reproduction.txt
+      - run: python -B scripts/reproduce.py audit-data
+      - run: python -B scripts/reproduce.py analyse
+      - run: python -B scripts/reproduce.py dispatch --smoke

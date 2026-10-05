@@ -1,0 +1,37 @@
+{
+  "status": "RUNNING",
+  "run_id": "run_20261004T173404Z_u50_lastweek",
+  "started_utc": "2026-10-04T17:34:04.865073+00:00",
+  "candidate_count": 128,
+  "candidate_counts_by_zone": {
+    "BE": 32,
+    "DE_LU": 32,
+    "FR": 32,
+    "NL": 32
+  },
+  "site_roster_path": "D:\\MLWork\\Europe_green_hydrogen_siting\\datasets\\intermediate\\regret_certificate_pilot_20261002_v1\\validation_sites_128_excluding_development_v1.csv",
+  "site_roster_sha256": "8950bca3c3d6b1a5521bf509a6b4cbcad87a992946978a7cd1c5485b935c0661",
+  "model": {
+    "electrolyser_capacity_mwe": 1.0,
+    "electrolyser_specific_electricity_kwh_per_kg": 55.0,
+    "pv_capacity_mwp_per_mwe": 2.0,
+    "annual_average_utilisation": 0.5,
+    "minimum_stable_load_fraction": 0.2,
+    "ramp_limit_mwe_per_hour": 1.0,
+    "hydrogen_storage_hours_of_demand": 12.0,
+    "dispatch_horizon_hours": 24,
+    "day_end_hydrogen_inventory_kg": 0.0,
+    "storage_boundary_note": "Hydrogen inventory is forced to zero at each UTC day end; storage shifts production only within each daily horizon, not across days.",
+    "unit_commitment_boundary_note": "On/off, starts, and stops are represented; startup costs and minimum up/down times are not modeled.",
+    "daily_decomposition_condition": "At the base ramp limit (equal to full electrolyser capacity), zero startup cost, no minimum up/down time, and zero end-of-day tank inventory, daily MILPs are separable across UTC days; changing these assumptions invalidates this decomposition argument and requires re-deriving the certificate.",
+    "startup_cost_eur_per_start": 0.0,
+    "startup_cost_note": "No project-specific startup cost was identified; transitions are represented and counted but not monetised in this pilot.",
+    "pv_forecast_method": "mean historical PVGIS-SARAH3 output at same UTC month-day-hour; only years before dispatch year; Feb-29 fallback uses adjacent dates if absent",
+    "price_forecast_method": "last_week_same_hour",
+    "settlement_evaluation": "Observed SMARD day-ahead prices are used only to score ex-post settlement cost; they are never supplied to the dispatch optimizer.",
+    "objective_scope": "Electricity procurement cost only; no electrolyser/PV CAPEX, fixed O&M, land, water, compression, storage capex, imbalance or grid-connection charges."
+  },
+  "primary_epsilon_eur_per_kg": 0.05,
+  "checkpoint_format": "one JSON file per solved site-year, including daily dispatch rows",
+  "reused_checkpoint_source": "D:\\MLWork\\Europe_green_hydrogen_siting\\results\\regret_certificate_pilot_20261002_v1\\run_20261002T084501Z_u50_lastweek"
+}

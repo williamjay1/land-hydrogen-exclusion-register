@@ -1,0 +1,15 @@
+{
+  "python": "3.12.10",
+  "packages": {
+    "numpy": "2.5.1",
+    "pandas": "3.0.5",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.1",
+    "pillow": "12.3.0",
+    "PyMuPDF": "1.28.2",
+    "pyproj": "3.7.2",
+    "shapely": "2.1.2",
+    "requests": "2.34.2"
+  },
+  "scope": "observed original Windows production environment; not a cross-platform guarantee"
+}

@@ -1,0 +1,4 @@
+# Observed production versions; register-only validation needs no packages.
+numpy==2.5.1
+pandas==3.0.5
+scipy==1.18.0

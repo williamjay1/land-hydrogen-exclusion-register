@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "label": "makres",
+      "requested_url": "https://www.espon.eu/publications/mak-res-final-report",
+      "final_url": "https://www.espon.eu/publications/mak-res-final-report",
+      "retrieved_utc": "20261005T053641802683Z",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5630,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\makres_20261005T053641802683Z.html",
+      "sha256": "5528574a396acb008fa75afebaab8942e7c58c44bb19ee183e6eb5f83f444b3b"
+    },
+    {
+      "label": "makres_case_studies",
+      "requested_url": "https://vbn.aau.dk/ws/portalfiles/portal/830977975/ESPON_MAK-RES_-_Case_Studies_04_26.pdf.pdf",
+      "final_url": "https://vbn.aau.dk/ws/portalfiles/portal/830977975/ESPON_MAK-RES_-_Case_Studies_04_26.pdf.pdf",
+      "retrieved_utc": "20261005T054323637458Z",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 21704621,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\makres_case_studies_20261005T054323637458Z.pdf",
+      "sha256": "f700d118938e4f7fd83186ea9c483d8be66e2e0edd99a83efc11ca64958c6b08"
+    },
+    {
+      "label": "makres_final_report",
+      "requested_url": "https://vbn.aau.dk/files/830977974/ESPON_MAK-RES_-_Final_report_04_26.pdf",
+      "final_url": "https://vbn.aau.dk/files/830977974/ESPON_MAK-RES_-_Final_report_04_26.pdf",
+      "retrieved_utc": "20261005T054237718149Z",
+      "status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 5776,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\makres_final_report_20261005T054237718149Z.html",
+      "sha256": "0a645ec4b799ac7353703c5630b86cb8863eee8d899f06462180ec562b23dd5c"
+    },
+    {
+      "label": "makres_reader",
+      "requested_url": "https://r.jina.ai/https://www.espon.eu/publications/mak-res-final-report",
+      "final_url": "https://r.jina.ai/https://www.espon.eu/publications/mak-res-final-report",
+      "retrieved_utc": "20261005T053645257695Z",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 477,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\makres_reader_20261005T053645257695Z.html",
+      "sha256": "c4bf3954a5d072d108340a21ee6dbb1bb16566dc0d0316548283f54ab25aa648"
+    },
+    {
+      "label": "natura_permitting",
+      "requested_url": "https://environment.ec.europa.eu/topics/nature-and-biodiversity/natura-2000/permitting-procedure_en",
+      "final_url": "https://environment.ec.europa.eu/topics/nature-and-biodiversity/natura-2000/permitting-procedure_en",
+      "retrieved_utc": "20261005T053648463146Z",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 76967,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\natura_permitting_20261005T053648463146Z.html",
+      "sha256": "ed586f16c34ca303c9ab05045c83568841aeaa55cb03bd839341291efb0f84f5"
+    },
+    {
+      "label": "prieto2021",
+      "requested_url": "https://www.mdpi.com/2073-445X/10/2/217",
+      "final_url": "https://www.mdpi.com/2073-445X/10/2/217",
+      "retrieved_utc": "20261005T053650681598Z",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 400,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\prieto2021_20261005T053650681598Z.html",
+      "sha256": "3382167b2ea034703659207b102eb8d3e49dbc2fb631bc2e157e9d13dd332bdc"
+    },
+    {
+      "label": "prieto2021_reader",
+      "requested_url": "https://r.jina.ai/https://www.mdpi.com/2073-445X/10/2/217",
+      "final_url": "https://r.jina.ai/https://www.mdpi.com/2073-445X/10/2/217",
+      "retrieved_utc": "20261005T053657013979Z",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 81721,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\prieto2021_reader_20261005T053657013979Z.html",
+      "sha256": "7d3a471bae2c6a8ed276ed29328691a0d280a8f4d712cda776c6bf4b6a41023a"
+    },
+    {
+      "label": "raa_guidance",
+      "requested_url": "https://energy.ec.europa.eu/publications/guidance-designating-renewables-acceleration-areas_en",
+      "final_url": "https://energy.ec.europa.eu/publications/guidance-designating-renewables-acceleration-areas_en",
+      "retrieved_utc": "20261005T053646680415Z",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 85327,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\raa_guidance_20261005T053646680415Z.html",
+      "sha256": "c63d1737baf50f009915cb79ec339bb8fd12067bd9d23fea142601b3793ad155"
+    },
+    {
+      "label": "raa_guidance_document",
+      "requested_url": "https://energy.ec.europa.eu/document/download/af3927a5-3b82-42f0-8954-7b9fdc567e43_en",
+      "final_url": "https://circabc.europa.eu/ui/group/8f5f9424-a7ef-4dbf-b914-1af1d12ff5d2/library/08d7d302-0a93-426a-8923-0ba844b839e0/details?open=true",
+      "retrieved_utc": "20261005T054240928165Z",
+      "status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 50957,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\raa_guidance_document_20261005T054240928165Z.html",
+      "sha256": "e852354da9c84d2872d34cd07ef55e02059ce0572496b3c0c108a5075b1e02a6"
+    },
+    {
+      "label": "rediii",
+      "requested_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2413",
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023L2413",
+      "retrieved_utc": "20261005T053639369016Z",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 1052968,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\rediii_20261005T053639369016Z.html",
+      "sha256": "2d0c243ce76c5878304fd9219bc43c611ac934b23758a5664ddd8160d3177899"
+    },
+    {
+      "label": "rediii_pdf",
+      "requested_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202302413",
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ%3AL_202302413",
+      "retrieved_utc": "20261005T053641061508Z",
+      "status": 200,
+      "content_type": "application/pdf",
+      "bytes": 1450564,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\rediii_pdf_20261005T053641061508Z.pdf",
+      "sha256": "29f1ab465f43f7ad3b1bf646fd892524a7b9cfe5f9c443ce0c875d0ed7421b9c"
+    },
+    {
+      "label": "repowereu",
+      "requested_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2022%3A230%3AFIN",
+      "final_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2022%3A230%3AFIN",
+      "retrieved_utc": "20261005T053649914778Z",
+      "status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 301872,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\repowereu_20261005T053649914778Z.html",
+      "sha256": "2a40d0144b041299ccffea6916face437a511b0e8bc06d8bb37082fc86b2cbaa"
+    },
+    {
+      "label": "roxani2023",
+      "requested_url": "https://www.mdpi.com/2073-445X/12/5/1069",
+      "final_url": "https://www.mdpi.com/2073-445X/12/5/1069",
+      "retrieved_utc": "20261005T053657813829Z",
+      "status": 403,
+      "content_type": "text/html",
+      "bytes": 401,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\roxani2023_20261005T053657813829Z.html",
+      "sha256": "cd70ed34da5743817b2b2d6a1eedd386fce3c666281f7e5bf4f482eb37e64c3a"
+    },
+    {
+      "label": "roxani2023_reader",
+      "requested_url": "https://r.jina.ai/https://www.mdpi.com/2073-445X/12/5/1069",
+      "final_url": "https://r.jina.ai/https://www.mdpi.com/2073-445X/12/5/1069",
+      "retrieved_utc": "20261005T053703471691Z",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 106283,
+      "path": "F:\\AcademicData\\Project03\\raw\\land_planning_sources_20261005_v1\\roxani2023_reader_20261005T053703471691Z.html",
+      "sha256": "5498c971b462931db75d61b950f355a06db5bd311dbfcbe328f03191ed4c8180"
+    }
+  ]
+}

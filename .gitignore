@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+work/
+results/land_exclusion_register_20261005_v2/
+*.log
+*.aux
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db
